@@ -1,4 +1,7 @@
-## Hi there 👋
+## Solart Studio 📦
+
+Retrouvez notre discord ici:
+https://discord.gg/
 
 <!--
 
